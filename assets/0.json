@@ -1,0 +1,28 @@
+{
+    "name": "OMG Balls 1",
+    "symbol": "OMGB",
+    "description": "Collection of 4 random images generated using football seeds. This is the number 1/4.",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {"trait_type": "Awesomeness", "value": "1"},
+        {"trait_type": "Rubishness", "value": "10"}, 
+        {"trait_type": "Sleepiness", "value": "4"},
+        {"trait_type": "Usefulness", "value": "100"}
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "127S54ZSXfvMyvoWdy8rTDmBVhrpEaLUoLe39giJoEjv",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "balls", "family": "balls"}
+  }
